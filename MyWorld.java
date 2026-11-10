@@ -64,5 +64,17 @@ public class MyWorld extends World
         target4.setLocation(595,550);
         target3.setLocation(682,85);
         target4.setLocation(583,526);
+        target2.setLocation(501,369);
+        target6.setLocation(143,125);
+        target6.setLocation(260,249);
+        removeObject(target6);
+        target4.setLocation(109,64);
+        target2.setLocation(652,534);
+        target5.setLocation(516,108);
+        target.setLocation(485,373);
+        target5.setLocation(394,66);
+        target3.setLocation(680,65);
+        target.setLocation(545,309);
+        target2.setLocation(690,513);
     }
 }
