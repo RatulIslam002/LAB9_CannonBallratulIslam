@@ -76,5 +76,6 @@ public class MyWorld extends World
         target3.setLocation(680,65);
         target.setLocation(545,309);
         target2.setLocation(690,513);
+        target.setLocation(540,280);
     }
 }
